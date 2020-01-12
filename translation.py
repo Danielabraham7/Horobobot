@@ -1,7 +1,12 @@
 class Translation(object):
     START_TEXT = """
+    
+    Hi I am @horobobot 
+    Details About Me
  Creator:<a href="https://t.me/Daniel_Abraham">Daniel Abraham </a>
- Credits:@Spechdie
+ Credits:
+ &copy;@SpEcHIDe
+ @W4RR10R
  Source Code:<a href='https://github.com/SpEcHiDe/AnyDLBot'>Click Here</a>
  Server:Heroku
  Max Capacity:According to Server
